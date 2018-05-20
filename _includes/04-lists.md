@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- This is a list
+- Of my favorite things
+- It also includes emoji :bowtie:
